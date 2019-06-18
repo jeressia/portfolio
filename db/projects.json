@@ -1,0 +1,84 @@
+{
+  "projects": [{
+      "title": "PurpleMonkeyDishwashr Brewery", 
+      "screenshot": "https://github.com/nss-evening-cohort-9/foundations-group-project-purplemonkeydishwashr/raw/master/img/screenshot1.png?raw=true", 
+      "description": "Product cards using html, css, and flexbox for positioning", 
+      "technologiesUsed": "HTML, CSS, Version Control with Github",
+      "available": true,
+      "url": "https://github.com/jeressia/Product-Cards",
+      "githubUrl": "https://github.com/jeressia/Product-Cards"
+    },
+    {
+      "title": "StarkChat!", 
+      "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
+      "description": "This is the best project",
+      "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+      "available": false,
+      "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
+      "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
+  },
+  {
+    "title": "Tamogotchi", 
+    "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
+    "description": "This is the best project",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "available": false,
+    "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
+    "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
+},
+  {
+      "title": "BlockBlister", 
+      "screenshot": "https://github.com/jeressia/pet-adoption/blob/master/petadoption.png?raw=true", 
+      "description": "Pet adoption page using html, css, and javascript",
+      "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+      "available": true,
+      "url": "https://github.com/jeressia/pet-adoption", 
+      "githubUrl": "google.com"
+  },
+  {
+      "title": "Temperature Converter", 
+      "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
+      "description": "This is the best project",
+      "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+      "available": false,
+      "url": "https://github.com/nss-evening-cohort-8/js-part-deux", 
+      "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
+  },
+  {
+      "title": "Sorting Hat",
+      "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
+      "description": "This is the best project",
+      "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+      "available": false,
+      "url": "https://github.com/nss-evening-cohort-8/js-part-deux", 
+      "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
+  },
+  {
+      "title": "Tamogotchi", 
+      "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
+      "description": "This is the best project",
+      "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+      "available": false,
+      "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
+      "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
+  },
+  {
+    "title": "Shotz", 
+    "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
+    "description": "This is the best project",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "available": false,
+    "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
+    "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
+},
+{
+  "title": "BlockBlister", 
+  "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
+  "description": "This is the best project",
+  "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+  "available": false,
+  "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
+  "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
+}
+  ]
+}
