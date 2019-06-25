@@ -1,7 +1,37 @@
 #projects{
   height: auto;
+  text-align: center;
+  padding-bottom: 30px;
 }
 
-a.project-links{
- text-align: center;
+.project-title{
+  color: rgb(92, 36, 13);
+}
+
+a.project-link{
+  margin: 0 auto;
+  margin: 15px;
+  
+}
+
+img.card-img-top{
+  max-width: 700px;
+}
+.description{
+  text-align: justify;
+  max-width: 80%;
+  line-height: 18px;
+  font-size: 14px;
+  margin: 0 auto;
+  color: rgb(56, 50, 47);
+
+}
+
+.btn{
+  margin: 10px;
+}
+
+fieldset {
+  border: 1px solid #000;
+  index: 1;
 }
