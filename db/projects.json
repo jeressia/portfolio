@@ -1,38 +1,20 @@
 {
   "projects": [{
       "title": "BlockBlister", 
-      "screenshot": "https://github.com/jeressia/portfolio/blob/master/assets/moviesmockup.png?raw=true", 
+      "screenshot": "https://github.com/jeressia/portfolio/blob/master/assets/block.png?raw=true", 
       "description": "Movie app created using Firebase CRUD, Webpack, and ES6 Modules to allow users to add movies to a database. Once added, a user can click on each movie to rate it and to learn more about it. A user can also delete a movie or add it to their watchlist.", 
       "technologiesUsed": "HTML, CSS, Version Control with Github",
       "available": true,
       "url": "https://github.com/jeressia/Product-Cards",
-      "githubUrl": "https://github.com/jeressia/portfolio"
+      "githubUrl": "https://github.com/jeressia/BlockBlister"
     },
     {
-      "title": "StarkChat!", 
-      "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
-      "description": "This is the best project",
+      "title": "PurpleMonkeyDishwashr Beer", 
+      "screenshot": "https://github.com/jeressia/portfolio/blob/master/assets/pmd.png?raw=true", 
+      "description": "Group project for an imaginary beer company. We used HTML, CSS, and we manipulated the DOM using Javascript. I was responsible for the homepage. ",
       "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
       "available": false,
       "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
       "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
-  },
-  {
-    "title": "Tamogotchi", 
-    "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
-    "description": "This is the best project",
-    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
-    "available": false,
-    "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
-    "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
-},
-{
-      "title": "BlockBlister", 
-      "screenshot": "https://github.com/jeressia/pet-adoption/blob/master/petadoption.png?raw=true", 
-      "description": "Pet adoption page using html, css, and javascript",
-      "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
-      "available": true,
-      "url": "https://github.com/jeressia/pet-adoption", 
-      "githubUrl": "google.com"
   }]
 }
