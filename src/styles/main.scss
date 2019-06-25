@@ -4,10 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:200&display=swap');
 
-@import "./_colors";
 @import "./responsive.scss";
-@import "../javascripts/components/about/about.scss";
-
 html{
   scroll-behavior: smooth;
 }
@@ -261,4 +258,9 @@ a.navbar-brand {
 
 .fa-bootstrap{
   color: #3a175e;
+}
+
+.img-thumbnail{
+  border: none;
+  background-color: transparent;
 }
