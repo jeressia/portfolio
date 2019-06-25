@@ -1,14 +1,14 @@
 {
-  "project1": {
+  "projects": [{
       "title": "BlockBlister", 
-      "screenshot": "https://github.com/nss-evening-cohort-9/foundations-group-project-purplemonkeydishwashr/raw/master/img/screenshot1.png?raw=true", 
+      "screenshot": "https://github.com/jeressia/portfolio/blob/master/assets/moviesmockup.png?raw=true", 
       "description": "Movie app created using Firebase CRUD, Webpack, and ES6 Modules to allow users to add movies to a database. Once added, a user can click on each movie to rate it and to learn more about it. A user can also delete a movie or add it to their watchlist.", 
       "technologiesUsed": "HTML, CSS, Version Control with Github",
       "available": true,
       "url": "https://github.com/jeressia/Product-Cards",
       "githubUrl": "https://github.com/jeressia/portfolio"
     },
-    "project2": {
+    {
       "title": "StarkChat!", 
       "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
       "description": "This is the best project",
@@ -17,7 +17,7 @@
       "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
       "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
   },
-  "project3": {
+  {
     "title": "Tamogotchi", 
     "screenshot": "http://gotoflashgames.com/files/file/033.jpg", 
     "description": "This is the best project",
@@ -26,7 +26,7 @@
     "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
     "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
 },
-"project4": {
+{
       "title": "BlockBlister", 
       "screenshot": "https://github.com/jeressia/pet-adoption/blob/master/petadoption.png?raw=true", 
       "description": "Pet adoption page using html, css, and javascript",
@@ -34,5 +34,5 @@
       "available": true,
       "url": "https://github.com/jeressia/pet-adoption", 
       "githubUrl": "google.com"
-  }
+  }]
 }
