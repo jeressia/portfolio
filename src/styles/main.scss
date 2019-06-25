@@ -181,11 +181,10 @@ a.navbar-brand {
   margin: 0px;
 }
 #projects{
-  height:350px;
   background-color: #f0720c;
 }
 
-#projects:after {
+#project-section-title:before {
   content: "";
   position: relative;
   top:0px;
