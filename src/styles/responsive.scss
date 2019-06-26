@@ -1,1 +1,20 @@
 
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px) 
+and (-webkit-min-device-pixel-ratio: 1) {
+  // .bio-text{
+  //   margin-top: 30px;
+  //   margin-left: 45px;
+  //  }
+  }
+
+  @media only screen 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+  .bio-text{
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    margin-top: 0px !important;
+   }
+}

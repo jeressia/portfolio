@@ -139,9 +139,18 @@ a.navbar-brand {
 
 #technologiesDiv{
  background-color: #970984;
- height: 350px;
+//  height: 350px;
 }
-
+a img:last-child {
+  display: none;  
+}
+a:hover img:last-child {
+  display: block;  
+  transform: scale(1.1);
+}
+a:hover img:first-child {
+  display: none;  
+}
 .tech-section-title{
   text-align: center;
   text-transform: uppercase;

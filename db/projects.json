@@ -3,9 +3,9 @@
       "title": "BlockBlister", 
       "screenshot": "https://github.com/jeressia/portfolio/blob/master/assets/block.png?raw=true", 
       "description": "Movie app created using Firebase CRUD, Webpack, and ES6 Modules to allow users to add movies to a database. Once added, a user can click on each movie to rate it and to learn more about it. A user can also delete a movie or add it to their watchlist.", 
-      "technologiesUsed": "HTML, CSS, Version Control with Github",
+      "technologiesUsed": "HTML, CSS, Vanilla Javascript, Firebase, Version Control with Github",
       "available": true,
-      "url": "https://github.com/jeressia/Product-Cards",
+      "url": "https://blockblister-98493.firebaseapp.com",
       "githubUrl": "https://github.com/jeressia/BlockBlister"
     },
     {

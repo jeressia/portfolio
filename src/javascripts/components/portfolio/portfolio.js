@@ -14,8 +14,8 @@ const portfolioBuilder = () => {
       domString += `<h3 class="project-title">${project.title}<h3>`;
       domString += `<h6 class="description">${project.description}</h6>`;
       domString += '<div class="project-links">';
-      domString += `<button class="btn btn-warning project-link" href=${project.githubUrl}>GitHub</button>`;
-      domString += `<button class="project-link btn btn-warning" href="${project.url}">Website</button>`;
+      domString += `<a href=${project.githubUrl}><button class="btn btn-warning project-link">GitHub</button></a>`;
+      domString += `<a href=${project.url}><button class="project-link btn btn-warning">Website</button></a>`;
       domString += '</div>';
       domString += '<hr>';
     });
