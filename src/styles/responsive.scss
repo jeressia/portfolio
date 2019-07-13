@@ -3,10 +3,6 @@
 and (min-device-width: 768px) 
 and (max-device-width: 1024px) 
 and (-webkit-min-device-pixel-ratio: 1) {
-  // .bio-text{
-  //   margin-top: 30px;
-  //   margin-left: 45px;
-  //  }
   }
 
   @media only screen 
@@ -17,4 +13,7 @@ and (-webkit-min-device-pixel-ratio: 1) {
     margin-right: 5px !important;
     margin-top: 0px !important;
    }
+  .navbar-brand{
+    justify-content: center;
+  }
 }
