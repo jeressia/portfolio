@@ -29,7 +29,7 @@
 {
   "title": "starkTALK", 
   "screenshot": "https://github.com/jeressia/intro-react/blob/master/screen.png?raw=true", 
-  "description": "Group project for a chat app. We used HTML, CSS, Javascript ES6 modules. I was responsible for allowing users to change to dark mode and clearing all messages. ",
+  "description": "Group project for a chat app. We used HTML, CSS, Javascript ES6 modules. I was responsible for allowing users to change to dark mode.",
   "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
   "available": true,
   "url": "https://stark-talk.firebaseapp.com/",
