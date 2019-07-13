@@ -3,9 +3,9 @@
       "title": "BlockBlister", 
       "screenshot": "https://github.com/jeressia/portfolio/blob/master/assets/block.png?raw=true", 
       "description": "Movie app created using Firebase CRUD, Webpack, and ES6 Modules to allow users to add movies to a database. Once added, a user can click on each movie to rate it and to learn more about it. A user can also delete a movie or add it to their watchlist.", 
-      "technologiesUsed": "HTML, CSS, Version Control with Github",
+      "technologiesUsed": "HTML, CSS, Webpack, Firebase, Version Control with Github",
       "available": true,
-      "url": "https://github.com/jeressia/Product-Cards",
+      "url": "https://blockblister-98493.firebaseapp.com",
       "githubUrl": "https://github.com/jeressia/BlockBlister"
     },
     {
@@ -14,7 +14,26 @@
       "description": "Group project for an imaginary beer company. We used HTML, CSS, and we manipulated the DOM using Javascript. I was responsible for the homepage. ",
       "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
       "available": false,
-      "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
-      "githubUrl": "https://github.com/nss-evening-cohort-8/js-part-deux"
-  }]
+      "url": "https://pmdw-49a1f.firebaseapp.com/",
+      "githubUrl": "https://github.com/orgs/nss-evening-cohort-9/teams/purplemonkeydishwashr/repositories"
+  },
+  {
+    "title": "Gigapet", 
+    "screenshot": "https://github.com/jeressia/gigapet/blob/master/giga.png?raw=true", 
+    "description": "Group project for an imaginary beer company. We used HTML, CSS, and we manipulated the DOM using Javascript. I was responsible for the homepage. ",
+    "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+    "available": false,
+    "url": "https://github.com/nss-evening-cohort-8/js-part-deux",
+    "githubUrl": "https://github.com/jeressia/gigapet"
+},
+{
+  "title": "starkTALK", 
+  "screenshot": "https://github.com/jeressia/intro-react/blob/master/screen.png?raw=true", 
+  "description": "Group project for a chat app. We used HTML, CSS, Javascript ES6 modules. I was responsible for allowing users to change to dark mode and clearing all messages. ",
+  "technologiesUsed": "HTML, CSS, Vanilla JavaScript, Version Control with Github",
+  "available": true,
+  "url": "https://stark-talk.firebaseapp.com/",
+  "githubUrl": "https://github.com/nss-evening-cohort-9/chatty-stark"
+}]
+
 }
